@@ -1,12 +1,12 @@
 [
   {
-    "key" : "IJ",
-    "latitude" : -28.389035729516745,
-    "longitude" : -53.92206581268852
+    "key" : "teste",
+    "latitude" : -28.2972,
+    "longitude" : -53.9241
     "name" : "Ijuí",
   },
   {
-    "key": "los-angeles",
+    "key": "testeEUA",
     "latitude": 34.067401885986,
     "longitude": -118.24230194092,
     "name": "Los Angeles"
