@@ -1,38 +1,14 @@
 [
   {
-    "key" : "CX",
-    "name" : "Caxias do Sul",
-    "latitude" : -51.31383,
-    "longitude" : -29.1654
+    "key": "charleroi",
+    "latitude": 50.411361694336,
+    "longitude": 4.4444799423218,
+    "name": "Charleroi"
   },
   {
-    "key" : "CNS",
-    "name" : "Canoas",
-    "latitude" : 2.82384,
-    "longitude" : -60.6753
-  },
-  {
-    "key" : "CRI",
-    "name" : "Criciuma",
-    "latitude" : -1.4554,
-    "longitude" : -48.4898
-  },
-  {
-    "key" : "IJUI",
-    "name" : "Ijui",
-    "latitude" : -19.9102,
-    "longitude" : -43.9266
-  },
-  {
-    "key" : "PF",
-    "name" : "Passo Fundo",
-    "latitude" : 2.82384,
-    "longitude" : -60.6753
-  },
-  {
-    "key" : "PL",
-    "name" : "Pelotas",
-    "latitude" : -19.9102,
-    "longitude" : -43.9266
-  },
+    "key": "los-angeles",
+    "latitude": 34.067401885986,
+    "longitude": -118.24230194092,
+    "name": "Los Angeles"
+  }
 ]
