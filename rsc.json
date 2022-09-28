@@ -34,5 +34,11 @@
     "name" : "Pelotas",
     "latitude" : -31.7696,
     "longitude" : -52.3409
+  },
+    {
+    "key" : "ARAQ",
+    "name" : "Araquari",
+    "latitude" : -26.2212,
+    "longitude" : -48.4320
   }  
 ]
