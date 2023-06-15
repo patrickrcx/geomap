@@ -18,6 +18,12 @@
     "longitude" : -49.3616
   },
   {
+    "key" : "ICA",
+    "name" : "Criciuma",
+    "latitude" : -28.7138,
+    "longitude" : -49.3006
+  },
+  {
     "key" : "IJ",
     "name" : "Ijui",
     "latitude" : -28.3869,
