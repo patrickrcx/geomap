@@ -1,1 +1,56 @@
-
+[
+  {
+    "key" : "JOI",
+    "name" : "Joinville",
+    "latitude" : -26.304497,
+    "longitude" : -48.848675
+  },  
+  {
+    "key" : "SSA",
+    "name" : "Salvador",
+    "latitude" : -12.97178,
+    "longitude" : -38.501068
+  },
+  {
+    "key" : "UDI",
+    "name" : "Uberlandia",
+    "latitude" : -18.914142,
+    "longitude" : -48.274934
+  },
+  {
+    "key" : "REC",
+    "name" : "Recife",
+    "latitude" : -8.046658,
+    "longitude" : -34.877065
+  },
+  {
+    "key" : "RIO",
+    "name" : "Rio de Janeiro",
+    "latitude" : -22.912897,
+    "longitude" : -43.200295
+  },
+  {
+    "key" : "JPA",
+    "name" : "Joao Pessoa",
+    "latitude" : -7.11509,
+    "longitude" : -34.864121
+  },
+  {
+    "key" : "RAO",
+    "name" : "Ribeirao  Preto",
+    "latitude" : -21.169923,
+    "longitude" : -47.809875
+  },
+    {
+    "key" : "SJO",
+    "name" : "Sao Jose",
+    "latitude" : -27.613577,
+    "longitude" : -48.636607
+  },
+    {
+    "key" : "SAM",
+    "name" : "Santo Amaro",
+    "latitude" : -12.547206,
+    "longitude" : -38.713679
+  } 
+]
