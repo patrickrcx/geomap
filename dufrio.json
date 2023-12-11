@@ -52,5 +52,17 @@
     "name" : "Santo Amaro",
     "latitude" : -23.6446456,
     "longitude" : -46.7426145
-  } 
+  },
+    {
+    "key" : "VQH",
+    "name" : "Vila Velha",
+    "latitude" : -20.341705,
+    "longitude" : -40.287458
+  },
+    {
+    "key" : "HLT",
+    "name" : "Hulter SP",
+    "latitude" : -23.453758,
+    "longitude" : -46.533347
+  }
 ]
