@@ -85,13 +85,13 @@
   },
     {
     "key" : "SJP",
-    "name" : "São José do Rio Preto",
+    "name" : "Sao Jose do Rio Preto",
     "latitude" : -20.811289,
     "longitude" : -49.375767
   },
     {
     "key" : "GYN",
-    "name" : "Goiânia",
+    "name" : "Goiania",
     "latitude" : -16.686439,
     "longitude" : -49.264346
   },
@@ -121,7 +121,7 @@
   },
     {
     "key" : "SBC",
-    "name" : "São Bernardo do Campo",
+    "name" : "Sao Bernardo do Campo",
     "latitude" : -23.691412,
     "longitude" : -46.564617
   },
@@ -139,7 +139,7 @@
   },
     {
     "key" : "CGB",
-    "name" : "Cuiabá",
+    "name" : "Cuiaba",
     "latitude" : -15.600979,
     "longitude" : -56.097397
   },
@@ -151,7 +151,7 @@
   },
     {
     "key" : "BEL",
-    "name" : "Cuiabá",
+    "name" : "Belem",
     "latitude" : -1.455396,
     "longitude" : -48.489756
   }
