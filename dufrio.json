@@ -64,5 +64,95 @@
     "name" : "Hulter SP",
     "latitude" : -23.453758,
     "longitude" : -46.533347
+  },
+    {
+    "key" : "BFN",
+    "name" : "Barra Funda SP",
+    "latitude" : -23.5271,
+    "longitude" : -46.6597
+  },
+    {
+    "key" : "LDB",
+    "name" : "Londrina",
+    "latitude" : -22.763931,
+    "longitude" : -52.98677
+  },
+    {
+    "key" : "POA",
+    "name" : "Porto Alegre",
+    "latitude" : -30.031771,
+    "longitude" : -51.206533
+  },
+    {
+    "key" : "SJP",
+    "name" : "São José do Rio Preto",
+    "latitude" : -20.811289,
+    "longitude" : -49.375767
+  },
+    {
+    "key" : "GYN",
+    "name" : "Goiânia",
+    "latitude" : -16.686439,
+    "longitude" : -49.264346
+  },
+    {
+    "key" : "CPQ",
+    "name" : "Campinas",
+    "latitude" : -22.905346,
+    "longitude" : -47.06595
+  },
+    {
+    "key" : "FOR",
+    "name" : "Fortaleza",
+    "latitude" : -3.716638,
+    "longitude" : -38.542298
+  },
+    {
+    "key" : "ITP",
+    "name" : "Itaim Paulista",
+    "latitude" : -23,4691,
+    "longitude" : -46,4036
+  },
+    {
+    "key" : "CWB",
+    "name" : "Curitiba",
+    "latitude" : -25.419547,
+    "longitude" : -49.264622
+  },
+    {
+    "key" : "SBC",
+    "name" : "São Bernardo do Campo",
+    "latitude" : -23.691412,
+    "longitude" : -46.564617
+  },
+    {
+    "key" : "BHZ",
+    "name" : "Belo Horizonte",
+    "latitude" : -19.910183,
+    "longitude" : -43.926572
+  },
+    {
+    "key" : "CGR",
+    "name" : "Campo Grande",
+    "latitude" : -20.448589,
+    "longitude" : -54.629463
+  },
+    {
+    "key" : "CGB",
+    "name" : "Cuiabá",
+    "latitude" : -15.600979,
+    "longitude" : -56.097397
+  },
+    {
+    "key" : "PMW",
+    "name" : "Palmas",
+    "latitude" : -10.239973,
+    "longitude" : -48.355751
+  },
+    {
+    "key" : "BEL",
+    "name" : "Cuiabá",
+    "latitude" : -1.455396,
+    "longitude" : -48.489756
   }
 ]
