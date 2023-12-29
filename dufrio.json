@@ -78,6 +78,12 @@
     "longitude" : -52.98677
   },
     {
+    "key" : "SAC",
+    "name" : "Porto Alegre - SAC",
+    "latitude" : -30.031771,
+    "longitude" : -51.206533
+  },
+    {
     "key" : "POA",
     "name" : "Porto Alegre",
     "latitude" : -30.031771,
