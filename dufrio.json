@@ -78,7 +78,7 @@
     "longitude" : -52.98677
   },
     {
-    "key" : "SAC",
+    "key" : "DIGITAL",
     "name" : "Porto Alegre - SAC",
     "latitude" : -30.0058304,
     "longitude" : -51.2082296
@@ -88,6 +88,12 @@
     "name" : "Porto Alegre",
     "latitude" : -30.031771,
     "longitude" : -51.206533
+  },
+    {
+    "key" : "FINANCEIRA",
+    "name" : "Porto Alegre - FINANCEIRA",
+    "latitude" : -30.0058304,
+    "longitude" : -51.2082296
   },
     {
     "key" : "SJP",
