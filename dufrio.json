@@ -90,6 +90,12 @@
     "longitude" : -51.206533
   },
     {
+    "key" : "GATEWAY",
+    "name" : "Porto Alegre - CAF",
+    "latitude" : -29.9987991,
+    "longitude" : -51.1947768
+  },
+    {
     "key" : "FINANCEIRA",
     "name" : "Porto Alegre - FINANCEIRA",
     "latitude" : -30.0058304,
