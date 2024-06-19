@@ -2,20 +2,20 @@
   {
     "key" : "SEDE",
     "name" : "SEDE - Sao Jose do Rio Preto - SP",
-    "latitude" : -20.8140,
-    "longitude" : -49.3902
+    "latitude" : -20.813898,
+    "longitude" : -49.389966
   },  
   {
     "key" : "PA",
     "name" : "PA - Sao Jose do Rio Preto - SP",
-    "latitude" : -20.8193,
-    "longitude" : -49.3978
+    "latitude" : -20.8192647,
+    "longitude" : -49.3977538
   },
   {
     "key" : "NAM",
     "name" : "NAM - Rio Preto - SP",
-    "latitude" : -20.8183,
-    "longitude" : -49.3987
+    "latitude" : -20.817852,
+    "longitude" : -49.399027
   },
   {
     "key" : "VENDAS",
