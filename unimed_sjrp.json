@@ -1,0 +1,50 @@
+[
+  {
+    "key" : "SEDE",
+    "name" : "SEDE - Sao Jose do Rio Preto - SP",
+    "latitude" : -20.8140,
+    "longitude" : -49.3902
+  },  
+  {
+    "key" : "PA",
+    "name" : "PA - Sao Jose do Rio Preto - SP",
+    "latitude" : -20.8193,
+    "longitude" : -49.3978
+  },
+  {
+    "key" : "NAM",
+    "name" : "NAM - Rio Preto - SP",
+    "latitude" : -20.8183,
+    "longitude" : -49.3987
+  },
+  {
+    "key" : "VENDAS",
+    "name" : "Vendas - Rio Preto - SP",
+    "latitude" : -20.8171,
+    "longitude" : -49.3819
+  },
+  {
+    "key" : "OLIMPIA",
+    "name" : "OLIMPIA - SP",
+    "latitude" : -20.7361,
+    "longitude" : -48.9182
+  },
+  {
+    "key" : "LAR",
+    "name" : "CLINICA LAR - SP",
+    "latitude" : -20.8175,
+    "longitude" : -49.3784
+  },
+  {
+    "key" : "MIRASSOL",
+    "name" : "MIRASSOL - SP",
+    "latitude" : -20.8121,
+    "longitude" : -49.5077
+  },
+    {
+    "key" : "JALES ",
+    "name" : "JALES - SP",
+    "latitude" : -20.2695,
+    "longitude" : -50.5500
+  }  
+]
