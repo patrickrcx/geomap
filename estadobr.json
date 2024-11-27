@@ -1,0 +1,164 @@
+[
+  {
+    "key": "AC",
+    "name": "Acre",
+    "latitude": -8.7742,
+    "longitude": -70.5558
+  },
+  {
+    "key": "AL",
+    "name": "Alagoas",
+    "latitude": -9.5715,
+    "longitude": -36.7820
+  },
+  {
+    "key": "AM",
+    "name": "Amazonas",
+    "latitude": -3.4166,
+    "longitude": -65.8560
+  },
+  {
+    "key": "AP",
+    "name": "Amapá",
+    "latitude": 0.9020,
+    "longitude": -52.0199
+  },
+  {
+    "key": "BA",
+    "name": "Bahia",
+    "latitude": -12.4634,
+    "longitude": -41.7110
+  },
+  {
+    "key": "CE",
+    "name": "Ceará",
+    "latitude": -5.7481,
+    "longitude": -39.3326
+  },
+  {
+    "key": "DF",
+    "name": "Distrito Federal",
+    "latitude": -15.7801,
+    "longitude": -47.9292
+  },
+  {
+    "key": "ES",
+    "name": "Espírito Santo",
+    "latitude": -20.3155,
+    "longitude": -40.3128
+  },
+  {
+    "key": "GO",
+    "name": "Goiás",
+    "latitude": -16.6864,
+    "longitude": -49.2647
+  },
+  {
+    "key": "MA",
+    "name": "Maranhão",
+    "latitude": -5.3653,
+    "longitude": -46.2730
+  },
+  {
+    "key": "MT",
+    "name": "Mato Grosso",
+    "latitude": -12.6418,
+    "longitude": -55.4231
+  },
+  {
+    "key": "MS",
+    "name": "Mato Grosso do Sul",
+    "latitude": -20.4697,
+    "longitude": -54.6201
+  },
+  {
+    "key": "MG",
+    "name": "Minas Gerais",
+    "latitude": -18.5122,
+    "longitude": -44.5550
+  },
+  {
+    "key": "PA",
+    "name": "Pará",
+    "latitude": -5.8604,
+    "longitude": -52.1683
+  },
+  {
+    "key": "PB",
+    "name": "Paraíba",
+    "latitude": -7.2185,
+    "longitude": -35.2459
+  },
+  {
+    "key": "PR",
+    "name": "Paraná",
+    "latitude": -25.4284,
+    "longitude": -49.2733
+  },
+  {
+    "key": "PE",
+    "name": "Pernambuco",
+    "latitude": -8.0476,
+    "longitude": -34.8770
+  },
+  {
+    "key": "PI",
+    "name": "Piauí",
+    "latitude": -5.8674,
+    "longitude": -42.2833
+  },
+  {
+    "key": "RJ",
+    "name": "Rio de Janeiro",
+    "latitude": -22.9068,
+    "longitude": -43.1729
+  },
+  {
+    "key": "RN",
+    "name": "Rio Grande do Norte",
+    "latitude": -5.7945,
+    "longitude": -35.2110
+  },
+  {
+    "key": "RS",
+    "name": "Rio Grande do Sul",
+    "latitude": -30.0346,
+    "longitude": -51.2177
+  },
+  {
+    "key": "RO",
+    "name": "Rondônia",
+    "latitude": -11.5013,
+    "longitude": -63.4617
+  },
+  {
+    "key": "RR",
+    "name": "Roraima",
+    "latitude": 2.8265,
+    "longitude": -60.6710
+  },
+  {
+    "key": "SC",
+    "name": "Santa Catarina",
+    "latitude": -27.5954,
+    "longitude": -48.5480
+  },
+  {
+    "key": "SP",
+    "name": "São Paulo",
+    "latitude": -23.5505,
+    "longitude": -46.6333
+  },
+  {
+    "key": "SE",
+    "name": "Sergipe",
+    "latitude": -10.9472,
+    "longitude": -37.0731
+  },
+  {
+    "key": "TO",
+    "name": "Tocantins",
+    "latitude": -10.1617,
+    "longitude": -48.3311
+  }
+]
